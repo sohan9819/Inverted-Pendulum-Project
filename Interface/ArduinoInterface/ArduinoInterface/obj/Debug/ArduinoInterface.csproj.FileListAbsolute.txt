@@ -1,0 +1,11 @@
+C:\Users\sohan\Downloads\Inverted_Pendulum\Interface\ArduinoInterface\ArduinoInterface\bin\Debug\ArduinoInterface.exe.config
+C:\Users\sohan\Downloads\Inverted_Pendulum\Interface\ArduinoInterface\ArduinoInterface\bin\Debug\ArduinoInterface.exe
+C:\Users\sohan\Downloads\Inverted_Pendulum\Interface\ArduinoInterface\ArduinoInterface\bin\Debug\ArduinoInterface.pdb
+C:\Users\sohan\Downloads\Inverted_Pendulum\Interface\ArduinoInterface\ArduinoInterface\obj\Debug\ArduinoInterface.csproj.AssemblyReference.cache
+C:\Users\sohan\Downloads\Inverted_Pendulum\Interface\ArduinoInterface\ArduinoInterface\obj\Debug\ArduinoInterface.csproj.SuggestedBindingRedirects.cache
+C:\Users\sohan\Downloads\Inverted_Pendulum\Interface\ArduinoInterface\ArduinoInterface\obj\Debug\ArduinoInterface.Properties.Resources.resources
+C:\Users\sohan\Downloads\Inverted_Pendulum\Interface\ArduinoInterface\ArduinoInterface\obj\Debug\ArduinoInterface.csproj.GenerateResource.cache
+C:\Users\sohan\Downloads\Inverted_Pendulum\Interface\ArduinoInterface\ArduinoInterface\obj\Debug\ArduinoInterface.csproj.CoreCompileInputs.cache
+C:\Users\sohan\Downloads\Inverted_Pendulum\Interface\ArduinoInterface\ArduinoInterface\obj\Debug\ArduinoInterface.exe
+C:\Users\sohan\Downloads\Inverted_Pendulum\Interface\ArduinoInterface\ArduinoInterface\obj\Debug\ArduinoInterface.pdb
+C:\Users\sohan\Downloads\Inverted_Pendulum\Interface\ArduinoInterface\ArduinoInterface\obj\Debug\ArduinoInterface.ArduinoInterface.resources
