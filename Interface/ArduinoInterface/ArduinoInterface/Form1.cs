@@ -49,13 +49,30 @@ namespace ArduinoInterface
         private void serialPort1_DataReceived(object sender, System.IO.Ports.SerialDataReceivedEventArgs e)
         {
             string indata = serialPort1.ReadLine();
-            d1 writeit = new d1(Write2Form);
+            Invoke(new d1(Write2Form), indata);
         }
 
         public void Write2Form(string indata)
         {
-            // Handles data 
+            // Handles data sent from the arduino
             char firstChar;
+            Single numdata;
+            firstChar = indata[0];
+            switch (firstChar)
+            {
+                case 'P':
+                    kpOutput.Text = indata.Substring(1);
+                    break;
+                case 'I':
+                    kiOutput.Text = indata.Substring(1);
+                    break;
+                case 'D':
+                    kdOutput.Text = indata.Substring(1);
+                    break;
+            }
+
+
+
 
         }
     }

@@ -66,9 +66,6 @@ void moveToCentre(int speed)
 {
   position = sonar.ping_cm();
 
-  // Serial.println("Entered Move to center");
-  // delay(1000);
-
   while (position <= MIN_DISTANCE || position >= MAX_DISTANCE)
   {
     position = sonar.ping_cm();

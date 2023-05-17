@@ -49,5 +49,11 @@ void loop()
     }
   }
 
-  Serial.println(analogRead(A0));
+  // Serial.println(analogRead(A0));
+  Serial.print("P");
+  Serial.println(kp);
+  Serial.print("I");
+  Serial.println(ki);
+  Serial.print("D");
+  Serial.println(kd);
 }
